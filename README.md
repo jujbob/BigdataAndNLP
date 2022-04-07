@@ -9,12 +9,12 @@ It is a repository for providing slides and codes for this class
   - 전략: 우선 관심기업 선정 후. 뉴스 키워드 빈도수 기반으로 앞으로 분석 예정
 
 ## 2조
- ```github:```
+ ```github: https://github.com/20191792/BigdataAndNLP```
  - 선별종목 20220407: 
   - 전략: 코스피 전체를 보고 판단할예정
 
 ## 3조
- ```github:www.github.com/seominseok4834```
+ ```github: https://github.com/seominseok4834```
  - 선별종목 20220407: 크래프톤, 대한항공, 현대자동차, 카카오페이(분석해보니 비추)
   - 전략: 해당 주식의 상위 1000개의 최신 기사를 추출하고 핵심키워드 뽑아 매수 여부 판단
 
