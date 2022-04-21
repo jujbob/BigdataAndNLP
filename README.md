@@ -24,12 +24,12 @@ It is a repository for providing slides and codes for this class
   - 전략: 상승시의 기사를 크롤링해 키워드 추출하고 해당 키워드와 유사한 키워드가 뉴스기사에 많이 나올 경우 매수하는 전략 (해외여행 키워드가 중요 --> 해외여행 키워드가 많이 나올경우 매수 진행) 
 
 ## 5조
- ```github:```
+ ```github: https://github.com/YongJuDo/BigdataAndNLP```
  - 선별종목 20220407: 항공주 (대한항공)
   - 전략: 긍정키워드를 지정해두고 특정 섹터의 주식 중 긍정키우더의 빈도수를 10분간격으로 모니터링하여 매수하는 전략
 
 ## 6조 
- ```github:```
+ ```github: https://github.com/gudtjr2949/bigdata_analyze```
  - 선별종목 20220407: 위메이드, 넷마블, 현대차, SKT
   - 전략: 제목, 본문포함 핵심키워드 실시간 분석을 통한 투자 진행
 
