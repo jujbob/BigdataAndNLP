@@ -41,6 +41,6 @@ It is a repository for providing slides and codes for this class
  ```github: https://github.com/gudtjr2949/bigdata_analyze```
  - 선별종목 20220407: 위메이드, 넷마블, 현대차, SKT
  - 전략: 제목, 본문포함 핵심키워드 실시간 분석을 통한 투자 진행
- - 05월 12일: 전체 100개의 주가에 대해 호재키워드 악재키워드를 선정해 각 종목마다 호재 악재키워드 빈도수와 주가 등락율을 이용해 모델을 구현함.
+ - 05월 12일: 키워드 빈도수가 많을 경우 주가가 상승하는 가설을 세운 후  위메이드  -26%
 
 
