@@ -10,7 +10,7 @@ It is a repository for providing slides and codes for this class
 
 
 ## 1조
- ```github: https://github.com/ruripian/bigdata_analyze```
+ ```github: https://github.com/ruripian/stock_analysis```
  - 선별종목 20220407: 대한항공, GS건설, 금호석유
  - 전략: 우선 관심기업 선정 후. 뉴스 키워드 빈도수 기반으로 앞으로 분석 예정
  - 05월 12일: 유가 데이터를 수집하여 각 날짜별 원유 가격 변동과 가격을 비교하여 Linear regression으로 얘측 금호석유 매수 수익률 0%
