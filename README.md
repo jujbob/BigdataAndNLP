@@ -8,7 +8,7 @@ It is a repository for providing slides and codes for this class
  - 전략, 각 조별 분석 자료를 토대로 투자 결정
  - 현재 수익 4월 28일 매수, 6000만원 
  - 5월 12일 5281만원 수익률 -11.75%
- - 5월 16일 수익률 4492만원 -25.2%
+ - 5월 16일 4492만원 수익률 -25.2%
 
 
 ## 1조
