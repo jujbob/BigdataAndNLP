@@ -9,6 +9,7 @@ It is a repository for providing slides and codes for this class
  - 현재 수익 4월 28일 매수, 6000만원 
  - 5월 12일 5281만원 수익률 -11.75%
  - 5월 16일 4492만원 수익률 -25.2%
+ - 5월 25일 4910만원 수익률 -17.1%
 
 
 ## 1조
