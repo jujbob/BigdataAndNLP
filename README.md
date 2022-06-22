@@ -11,6 +11,7 @@ It is a repository for providing slides and codes for this class
  - 5월 16일 4492만원 수익률 -25.2%
  - 5월 25일 4910만원 수익률 -17.1%
  - 6월 02일 4910만원 수익률 -17.1%
+ - 6월 20일 4130만원 수익률 -29.0% (종강)
 
 
 ## 1조
